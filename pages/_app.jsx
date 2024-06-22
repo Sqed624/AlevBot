@@ -23,7 +23,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Home",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
-      href: "/",
+      href: "a!",
     },
     {
       link: true,
@@ -37,21 +37,21 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/RzNMrvQz",
     },
     {
       link: true,
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
+      href: "https://discord.com/oauth2/authorize?client_id=1210644404633731092&permissions=8&integration_type=0&scope=bot",
     },
        {
       link: true,
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "https://top.gg/tr/bot/1210644404633731092",
     },
     {
       link: true,
